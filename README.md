@@ -8,14 +8,9 @@ imaging for mobile and edge-device applications.
 
 ## Related Work
 
-This repository accompanies the manuscript:
+This repository accompanies the manuscript: "Compact Neural Pancake Camera for High-Perceptual-Quality Imaging" Jinwen Wei, Liangcai Cao (under review)
 
-**Compact Neural Pancake Camera for High-Perceptual-Quality Imaging**
 
-Jinwen Wei, Liangcai Cao  
-Under review.
-
-The complete implementation will be released upon acceptance of the paper.
 
 ## License
 
