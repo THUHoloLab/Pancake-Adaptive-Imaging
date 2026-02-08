@@ -1,14 +1,10 @@
-# Neural Pancake Camera
-
-## Overview
+# Compact Neural Pancake Camera for High-Perceptual-Quality Imaging
 
 This work presents a neural Pancake camera that combines folded catadioptric optics
-with an adaptive latent manifold prior for high-perceptual-quality imaging.
-The proposed system enables compact, large-field-of-view, and high-perceptual-quality
+with an adaptive latent manifold prior based deconvolution for high-perceptual-quality imaging.
+The proposed camera enables compact, large-field-of-view, and high-perceptual-quality
 imaging for mobile and edge-device applications.
 [![System overview](Result/Figures/Introduction.png)](Result/Figures/Introduction.pdf)
-
-
 
 ## Related Work
 
@@ -20,3 +16,10 @@ Jinwen Wei, Liangcai Cao
 Under review.
 
 The complete implementation will be released upon acceptance of the paper.
+
+## License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
+
+
