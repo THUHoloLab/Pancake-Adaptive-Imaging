@@ -6,8 +6,7 @@ This work presents a neural Pancake camera that combines folded catadioptric opt
 with an adaptive latent manifold prior for high-perceptual-quality imaging.
 The proposed system enables compact, large-field-of-view, and high-perceptual-quality
 imaging for mobile and edge-device applications.
-[![System overview](Results/Figures/Introduction.png)](Results/Figures/Introduction.png)
-
+[![System overview](Result/Figures/Introduction.png)](Result/Figures/Introduction.pdf)
 
 
 
