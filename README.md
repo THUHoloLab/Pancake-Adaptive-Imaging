@@ -1,4 +1,4 @@
-# Pancake-Adaptive-Imaging
+# Neural Pancake Camera
 
 ## Overview
 
