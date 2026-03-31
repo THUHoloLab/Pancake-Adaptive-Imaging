@@ -1,5 +1,7 @@
 # Compact Neural Pancake Camera for High-Perceptual-Quality Foveated Imaging
 
+![License](https://img.shields.io/github/license/THUHoloLab/Pancake-Adaptive-Imaging)
+
 > Released repository for Adaptive Prior Deconvolution in neural Pancake imaging.
 
 [![System overview](Result/Figures/Introduction.jpg)](Result/Figures/Introduction.pdf)
@@ -62,7 +64,6 @@ If you find this repository useful, please cite:
 
 ## License
 
+## License
+
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-
