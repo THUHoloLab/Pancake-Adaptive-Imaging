@@ -6,7 +6,7 @@
 
 This repository accompanies the manuscript **"Compact Neural Pancake Camera for High-Perceptual-Quality Foveated Imaging"** by Jinwen Wei and Liangcai Cao *(under review)*.
 
-**Adaptive Prior Deconvolution** is the computation imaging algorithm in this work. APD combines a learnable deconvolution network with a adaptive latent natural prior, guiding restored images toward the natural image manifold instead of relying only on pixel-wise regression. By adaptively controlling the prior strength during inference, APD improves perceptual quality while preserving pixel fidelity, enabling sharper textures and more realistic reconstruction results for compact Pancake cameras. The proposed framework can also be directly integrated into other compact computational cameras, including DOE- and metalens-based imaging systems, indicating broad applicability and potential for future flat imaging applications.
+**Adaptive Prior Deconvolution** is the computation imaging algorithm in this work. APD combines a learnable deconvolution network with a adaptive latent natural prior, guiding restored images toward the natural image manifold instead of relying only on pixel-wise regression. By adaptively controlling the prior strength during inference, APD improves perceptual quality while preserving pixel fidelity, enabling sharper textures and more realistic reconstruction results for compact Pancake cameras. The proposed framework could be extendable to other compact computational cameras including DOE- and metalens-based imaging systems which suggests possible applicability to flat imaging architectures.
 
 
 ## Release Status
