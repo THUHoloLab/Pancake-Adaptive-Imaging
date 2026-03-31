@@ -2,7 +2,7 @@
 
 > Release for Adaptive Prior Deconvolution in neural Pancake imaging.
 
-[![System overview](Result/Figures/Introduction.png)](Result/Figures/Introduction.pdf)
+[![System overview](Result/Figures/Introduction.jpg)](Result/Figures/Introduction.pdf)
 
 This repository accompanies the manuscript **"Compact Neural Pancake Camera for High-Perceptual-Quality Foveated Imaging"** by Jinwen Wei and Liangcai Cao *(under review)*.
 
