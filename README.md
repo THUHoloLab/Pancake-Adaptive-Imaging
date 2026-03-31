@@ -21,9 +21,9 @@ This repository currently provides a partial release including representative sc
 
 ## Included in This Release
 
-- `Code/train.py`: training entry for the dual-stage deconvolution and prior-guided pipeline.
+- `Code/train.py`: training entry for the deconvolution and adaptive prior guided framework.
 - `Code/test.py`: inference and timestep sweep script with image-quality evaluation.
-- `Code/adaptive/`: utility modules for dataset loading, metric evaluation, training, and APD wrappers.
+- `Code/adaptive/`: utility modules for dataset loading, evaluation, and training.
 - `Result/Figures/`: overview figures used in the manuscript.
 - `Result/Images/`: sample captured images and ground-truth references.
 
