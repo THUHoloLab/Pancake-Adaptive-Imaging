@@ -52,13 +52,12 @@ If you find this repository useful, please cite:
 
 ```bibtex
 @misc{pancakeadaptive2026,
-  author={Jinwen Wei and Liangcai Cao},
-  title={Pancake-Adaptive-Imaging},
-  year={2026},
-  howpublished={\url{https://github.com/THUHoloLab/Pancake-Adaptive-Imaging/}},
-  note={GitHub repository}
+  author = {Jinwen Wei and Liangcai Cao},
+  title = {Pancake-Adaptive-Imaging},
+  year = {2026},
+  note = {GitHub repository},
+  url = {https://github.com/THUHoloLab/Pancake-Adaptive-Imaging/}
 }
-
 ```
 
 ## License
