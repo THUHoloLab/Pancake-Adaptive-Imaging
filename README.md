@@ -1,6 +1,6 @@
 # Compact Neural Pancake Camera for High-Perceptual-Quality Foveated Imaging
 
-> Release for Adaptive Prior Deconvolution in neural Pancake imaging.
+> Released repository for Adaptive Prior Deconvolution in neural Pancake imaging.
 
 [![System overview](Result/Figures/Introduction.jpg)](Result/Figures/Introduction.pdf)
 
