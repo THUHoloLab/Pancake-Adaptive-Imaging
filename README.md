@@ -7,14 +7,10 @@
 
 [![System overview](Result/Figures/Introduction.jpg)](Result/Figures/Introduction.pdf)
 
-This repository accompanies the manuscript **"Compact Neural Pancake Camera for High-Perceptual-Quality Foveated Imaging"** by Jinwen Wei and Liangcai Cao *(under review)*.
-
-**Adaptive Prior Deconvolution** is the computation imaging algorithm in this work. APD combines a learnable deconvolution network with a adaptive latent natural prior, guiding restored images toward the natural image manifold instead of relying only on pixel-wise regression. By adaptively controlling the prior strength during inference, APD improves perceptual quality while preserving pixel fidelity, enabling sharper textures and more realistic reconstruction results for compact Pancake cameras. The proposed framework could be extendable to other compact computational cameras including DOE- and metalens-based imaging systems which suggests possible applicability to flat imaging architectures.
+This repository accompanies the article "Compact Neural Pancake Camera for High-Perceptual-Quality Foveated Imaging" by Jinwen Wei and Liangcai Cao, published in ACS Photonics in 2026.
 
 
-## Release Status
 
-This repository currently provides a partial release including representative scripts, figures, and sample images. The complete training and inference codebase will be released after the manuscript is accepted.
 
 ## Highlights
 
@@ -22,48 +18,28 @@ This repository currently provides a partial release including representative sc
 - Adaptive Prior Deconvolution (APD) for perceptually faithful computational imaging.
 - Bio-inspired foveated imaging for bandwidth-efficient mobile and edge-device applications.
 
-## Included in This Release
 
-- `Code/train.py`: training entry for the deconvolution and adaptive prior guided framework.
-- `Code/test.py`: inference and timestep sweep script with image-quality evaluation.
-- `Code/adaptive/`: utility modules for dataset loading, evaluation, and training.
-- `Result/Figures/`: overview figures used in the manuscript.
-- `Result/Images/`: sample captured images and ground-truth references.
 
-## Repository Structure
-
-```text
-Pancake-Adaptive-Imaging-main/
-├── Code/
-│   ├── train.py
-│   ├── test.py
-│   └── adaptive/
-├── Result/
-│   ├── Figures/
-│   └── Images/
-├── LICENSE
-└── README.md
-```
-
-## Related Work
-
-This repository accompanies the 2026 manuscript **"Compact Neural Pancake Camera for High-Perceptual-Quality Foveated Imaging"** by Jinwen Wei and Liangcai Cao *(under review)*.
 
 ## Citation
 
 If you find this repository useful, please cite:
 
 ```bibtex
-@misc{pancakeadaptive2026,
-  author = {Jinwen Wei and Liangcai Cao},
-  title = {Pancake-Adaptive-Imaging},
-  year = {2026},
-  note = {GitHub repository},
-  url = {https://github.com/THUHoloLab/Pancake-Adaptive-Imaging/}
+@article{wei2026compact,
+  author  = {Jinwen Wei and Liangcai Cao},
+  title   = {Compact Neural Pancake Camera for High-Perceptual-Quality Foveated Imaging},
+  journal = {ACS Photonics},
+  year    = {2026},
+  volume  = {13},
+  number  = {12},
+  pages   = {3490--3500},
+  doi     = {10.1021/acsphotonics.6c00691},
+  url     = {https://doi.org/10.1021/acsphotonics.6c00691}
 }
 ```
 
-## License
+
 
 ## License
 
