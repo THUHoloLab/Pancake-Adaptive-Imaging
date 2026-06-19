@@ -3,22 +3,18 @@
 ![License](https://img.shields.io/github/license/THUHoloLab/Pancake-Adaptive-Imaging)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 
-> Released repository for Adaptive Prior Deconvolution in neural Pancake imaging.
+> Released repository for Adaptive Prior Deconvolution in Pancake imaging.
 
 [![System overview](Result/Figures/Introduction.jpg)](Result/Figures/Introduction.pdf)
 
 This repository accompanies the article "Compact Neural Pancake Camera for High-Perceptual-Quality Foveated Imaging" by Jinwen Wei and Liangcai Cao, published in ACS Photonics in 2026.
 
 
-
-
 ## Highlights
 
 - Compact folded Pancake catadioptric imaging with a large field of view.
-- Adaptive Prior Deconvolution (APD) for perceptually faithful computational imaging.
+- Adaptive Prior Deconvolution for perceptually faithful computational imaging.
 - Bio-inspired foveated imaging for bandwidth-efficient mobile and edge-device applications.
-
-
 
 
 ## Citation
