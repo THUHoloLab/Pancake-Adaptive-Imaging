@@ -38,7 +38,9 @@ If you find this repository useful, please cite:
   url     = {https://doi.org/10.1021/acsphotonics.6c00691}
 }
 ```
+## Acknowledgements
 
+This project is inspired by [HYPIR](https://github.com/XPixelGroup/HYPIR) and [Uformer](https://github.com/zhendongwang6/uformer).
 
 
 ## License
